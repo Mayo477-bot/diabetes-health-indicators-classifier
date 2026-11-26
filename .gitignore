@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+pycache/
+*.py[cod]
+
+# Dataset files
+data/*.csv
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Secrets
+.streamlit/secrets.toml
+
+# System files
+.DS_Store
+Thumbs.db
+models/random_forest.pkl
