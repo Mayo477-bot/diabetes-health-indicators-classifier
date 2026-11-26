@@ -59,3 +59,8 @@ Healthcare-Risk-Prediction/
 ├── models/
 ├── notebooks/
 └── reports/
+## Live Demo
+
+Try the application here:
+
+[Launch Diabetes Health Indicators Classifier](https://diabetes-health-indicators-classifier-ftefrworf6j8dvren5dstt.streamlit.app/)
